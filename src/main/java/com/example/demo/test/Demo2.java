@@ -2,14 +2,14 @@ package com.example.demo.test;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-
 @Component
-public class DemoTest implements CommandLineRunner {
+public class Demo2 implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Hello From Command Line Runner");
-		System.out.println("Hello Modified");
+		// TODO Auto-generated method stub
+		System.out.println("New File Added");
+
 	}
 
 }
